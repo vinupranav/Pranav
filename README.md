@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Pranav!
 
 <!-- Full-width header image -->
-<img src="https://img.freepik.com/free-vector/gradient-artificial-intelligence-twitter-header_23-2150330599.jpg" alt="Header Image" style="width: 100%; height: auto;">
+<img src="https://ccecosystems.news/wp-content/uploads/2022/04/AdobeStock_379301808-scaled.jpeg" style="width: 100%; height: auto;">
 
 ## 🧑‍💻 About Me
 
