@@ -1,6 +1,7 @@
 # 👋 Hello, I'm Pranav!
 
-![Profile Image](8982396.jpg)
+<!-- Full-width header image -->
+<img src="https://img.freepik.com/free-vector/gradient-artificial-intelligence-twitter-header_23-2150330599.jpg" alt="Header Image" style="width: 100%; height: auto;">
 
 ## 🧑‍💻 About Me
 
@@ -9,23 +10,23 @@ I'm an AI Engineer currently pursuing a Bachelor's degree in Artificial Intellig
 ## 🛠️ Projects
 
 ### AI Driven Cyber Security Threat Detection
-![Cyber Security](https://images.unsplash.com/photo-1607524253801-8b0b8cf6a6f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDF8fGFpJTIwY3liZXIlMjBzZWN1cml0eXx8MHx8fDE2NTg2Nzg5Njc&ixlib=rb-1.2.1&q=80&w=600)
+![Cyber Security](https://media.licdn.com/dms/image/C5612AQFIAutNILcKpQ/article-cover_image-shrink_720_1280/0/1603263308267?e=1728518400&v=beta&t=S-cyyDxL_Ge8xbzJnzXM97Nv0tlnd3IVsstss6BcsaQ)
 Developed an advanced AI system to detect and mitigate cybersecurity threats in real-time.
 
 ### AI Stock Analyst
-![Stock Analyst](https://images.unsplash.com/photo-1581091911401-059b37190d7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fGFpJTIwY3liZXIlMjBzdG9jayUyMGFubHlzaXN0fHwwfHwwfDE2NTg2Nzg5Njc&ixlib=rb-1.2.1&q=80&w=600)
+![Stock Analyst](https://www.entefy.com/wp-content/uploads/2022/03/071f8a36715a8a6b7f7ded54074cc8c6.gif)
 Built a predictive model to analyze stock market trends and provide investment insights.
 
 ### AI Home Interior Designer
-![Home Interior](https://images.unsplash.com/photo-1574180045827-f1b22e57c004?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDd8fGFpJTIwY2FsbGElMjBhcHBsaWFuY2V8fDB8fDF8fDE2NTg2Nzg5Njc&ixlib=rb-1.2.1&q=80&w=600)
+![Home Interior](https://cdn.pixabay.com/photo/2023/07/07/06/39/ai-generated-8111851_1280.png)
 Created an AI tool for designing home interiors, suggesting layouts and decor based on user preferences.
 
 ### Multimodal AI Agent for Content Creation
-![Content Creation](https://images.unsplash.com/photo-1604595928663-9071c4c9187f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDkwfGFpJTIwY2FsbGElMjBhcHBsaWFuY2V8fDB8fHwwfDE2NTg2Nzg5Njc&ixlib=rb-1.2.1&q=80&w=600)
+![Content Creation](https://www.gmercyu.edu/academics/learn/learn_howtobecomeanaiengineer.jpeg)
 Developed a multimodal AI agent capable of generating and optimizing content across various formats.
 
 ### AI Driven Industrial Equipment Maintenance Prediction
-![Maintenance Prediction](https://images.unsplash.com/photo-1572456493757-f4b0a51f79dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fGFpJTIwY2FsbGElMjBhcHBsaWFuY2V8fDB8fHwwfDE2NTg2Nzg5Njc&ixlib=rb-1.2.1&q=80&w=600)
+![Maintenance Prediction](https://media.licdn.com/dms/image/D4E12AQHYaMvejbLeFA/article-cover_image-shrink_720_1280/0/1702366391527?e=1728518400&v=beta&t=bQE4gwMZnCBhLluROgbrfna4qLvY-K0vXluqtVfRbVQ)
 Engineered a predictive maintenance system for industrial equipment to minimize downtime and improve efficiency.
 
 ## 💻 Technologies & Tools
@@ -36,15 +37,17 @@ Engineered a predictive maintenance system for industrial equipment to minimize 
 
 ## 📜 Certifications
 
-- [IBM AI Engineering Professional Certificate](https://www.coursera.org/account/accomplishments/verify/ABC123)
+- [IBM Data Science Professional Certification]
+- [IBM Applied AI Specialization Certificate]
+- [IBM Machine Learning Specialization]
+- [Stanford Advanced Machine Learning Specialization]
 
 ## 📈 Get in Touch
 
 Feel free to connect with me:
 
-- **LinkedIn:** [Pranav's LinkedIn](https://www.linkedin.com/in/pranav)
-- **Twitter:** [@PranavAI](https://twitter.com/PranavAI)
-- **Email:** [pranav@example.com](mailto:pranav@example.com)
+- **LinkedIn:** [Pranav's LinkedIn](https://www.linkedin.com/in/pranav-s-prakash-ai/)
+- **Email:** [pranav's Email](vinuninu8888@gmail.com)
 
 Thank you for visiting my GitHub profile! 🚀
 
