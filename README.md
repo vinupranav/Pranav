@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Pranav!
 
-![Header Image](https://www.google.com/imgres?q=Banner%20Images%20for%20%20AI%20software%20engineers&imgurl=https%3A%2F%2Fimg.freepik.com%2Ffree-vector%2Fgradient-artificial-intelligence-twitter-header_23-2150330599.jpg&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fmachine-learning-linkedin-banner&docid=M2QkMaHFDTG6oM&tbnid=RwQJrBpRnhLL6M&vet=12ahUKEwi7sdvtheaHAxXIZkEAHUpABE4QM3oECFIQAA..i&w=626&h=265&hcb=2&ved=2ahUKEwi7sdvtheaHAxXIZkEAHUpABE4QM3oECFIQAA)
+https://www.freepik.com/free-vector/artificial-intelligence-concept-twitter-header_42089915.htm#query=machine%20learning%20linkedin%20banner&position=2&from_view=keyword&track=ais_hybrid&uuid=c92ec5b8-408b-4e31-937a-d8c60ff43ab0
 
 ## 🧑‍💻 About Me
 
