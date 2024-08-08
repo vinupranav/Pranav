@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Pranav!
 
-![Profile Image](8982396.png)
+![Profile Image](8982396.jpg)
 
 ## 🧑‍💻 About Me
 
