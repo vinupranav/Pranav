@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Pranav!
 
-https://www.freepik.com/free-vector/artificial-intelligence-concept-twitter-header_42089915.htm#query=machine%20learning%20linkedin%20banner&position=2&from_view=keyword&track=ais_hybrid&uuid=c92ec5b8-408b-4e31-937a-d8c60ff43ab0
+![Profile Image](https://www.freepik.com/free-vector/artificial-intelligence-concept-twitter-header_42089915.htm#query=machine%20learning%20linkedin%20banner&position=2&from_view=keyword&track=ais_hybrid&uuid=c92ec5b8-408b-4e31-937a-d8c60ff43ab0)
 
 ## 🧑‍💻 About Me
 
